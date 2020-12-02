@@ -1,0 +1,43 @@
+<!DOCTYPE  html>
+<html>
+
+<head>
+<title>Biotecnologia</title>
+<h1 align="center">Ventajas y Desventajas</h1>
+<hr width='30%' size='3px' color='#FCA028' noshade='noshade'>
+</head>
+
+<body>
+<h2><u>Ventajas</u></h1>
+<p align="justify">
+Entre las principales ventajas de la biotecnología se tienen:
+<ol>
+<li>Rendimiento superior. Mediante organismos genéticamente modificados(OGM), el rendimiento de los cultivos aumenta, dando más alimento por menos recursos,
+disminuyendo las cosechas perdidas por enfermedad o plagas así como por factores ambientales.
+<li>educción de plaguicidas. Cada vez que un OGM es modificado para resistir una determinada plaga se está contribuyendo a reducir el uso de los 
+plaguicidas asociados a la misma que suelen ser causantes de grandes daños ambientales y a la salud.
+<li>Mejora en la nutrición. Se puede llegar a introducir vitaminas? y proteínas adicionales en alimentos así como reducir los alérgenos y toxinas naturales. 
+También se puede intentar cultivar en condiciones extremas lo que auxiliaría a los países que tienen menos disposición de alimentos.
+<li>Mejora en el desarrollo de nuevos materiales.
+</ol>
+<br>
+<img src="figura6.png" width="300" height="170"  align="left" BORDER=2 vspace="10" hspace="10">
+
+
+
+<h2><u>Desventajas</h2></u>
+<align="justify">
+Los procesos de modernización agrícola, además del aumento de la producción y los rendimientos, tienen otras consecuencias.
+<ol>
+<li>Una de ellas es la disminución de la mano de obra empleada por efectos de la mecanización; esto genera desempleo y éxodo rural en muchas áreas.
+<li>Por otro lado, para aprovechar las nuevas tecnologías se requieren dinero y acceso a la tierra y al agua. Los agricultores pobres que no pueden 
+acceder a esos recursos quedan fuera de la modernización y en peores condiciones para competir con las producciones modernas.
+</ol>
+<br>
+<img src="figura7.jpg" width="300" height="170"  align="left" BORDER=2 vspace="10" hspace="10"><br>
+<img src="figura8.jpg" width="400" height="200"  align="left" BORDER=2 vspace="10" hspace="10"><br>
+<img src="figura9.png" width="350" height="250"  align="left" BORDER=2 vspace="10" hspace="10">
+
+
+</body>
+</html>
